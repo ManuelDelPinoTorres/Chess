@@ -1,0 +1,50 @@
+reina negro 0 0
+reina negro 0 1
+reina negro 0 2
+reina negro 0 3
+reina negro 0 4
+reina negro 0 5
+reina negro 0 6
+reina negro 0 7
+
+reina negro 1 0
+reina negro 1 1
+reina negro 1 2
+reina negro 1 3
+reina negro 1 4
+reina negro 1 5
+reina negro 1 6
+reina negro 1 7
+
+
+caballo negro 2 0
+caballo negro 2 1
+caballo negro 2 2
+caballo negro 2 3
+caballo negro 2 4
+caballo negro 2 5
+caballo negro 2 6
+caballo negro 2 7
+
+
+caballo blanca 3 0
+caballo blanca 3 1
+caballo blanca 3 2
+caballo blanca 3 3
+caballo blanca 3 4
+caballo blanca 3 5
+caballo blanca 3 6
+caballo blanca 3 7
+
+
+
+reina blanca 7 0
+reina blanca 7 1
+reina blanca 7 2
+reina blanca 7 3
+reina blanca 7 4
+reina blanca 7 5
+reina blanca 7 6
+reina blanca 7 7
+
+
